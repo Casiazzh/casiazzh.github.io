@@ -9,13 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * M.Eng. in Pattern Recognition and Intelligent Systems (Natural Language Processing), 2027 (expected)
 * B.Eng. in Artificial Intelligence, Hunan Normal University, 2024
 * B.A. in Economics, Hunan Normal University, 2024
 
-Honors
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Honors and Awards
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -33,11 +40,7 @@ Honors
   * Supervisor: Professor Git
   
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
