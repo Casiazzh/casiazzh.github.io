@@ -14,7 +14,7 @@ Education
 ======
 * M.Eng. in Pattern Recognition and Intelligent Systems (Natural Language Processing), Institute of Automation, Chinese Academy of Sciences, 2027 (expected)
 * B.Eng. in Artificial Intelligence, Hunan Normal University, 2024
-* B.A. in Economics, Hunan Normal University, 2024
+* B.Econ. in Economics, Hunan Normal University, 2024
 
 Publications
 ======
