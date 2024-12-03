@@ -7,7 +7,7 @@ main:
     url: /about_me/
 
   - title: "中文介绍"
-    url: /imperial_maths_competition/
+    url: /chinese/
 
   - title: "Contact"
     url: /contact/
