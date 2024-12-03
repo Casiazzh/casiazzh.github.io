@@ -7,16 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xing Liu 刘行"
+title                    : "Zhang Zhiheng 章智恒"
 title_separator          : "-"
 name                     : &name "Xing liu"
 description              : &description "Welcome to my webpage!"
 url                      : https://xinglliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "XingLLiu/XingLLiu.github.io"
+repository               : "Casiazzh/Casiazzh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 60
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xing Liu"
+  name             : "Zhiheng Zhang"
   avatar           : "profile_nanjing.png"
   bio              : "PhD student of Statistics at Imperial College London"
   location         : "London, UK"
