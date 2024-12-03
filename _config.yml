@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhang Zhiheng 章智恒"
+title                    : "Zhiheng Zhang 章智恒"
 title_separator          : "-"
 name                     : &name "Zhang zhiheng"
 description              : &description "Welcome to my webpage!"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &xingliu97
+  # username               : &xingliu97
   facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhiheng Zhang"
   avatar           : "my_photo.png"
-  bio              : "PhD student of Statistics at Imperial College London"
+  bio              : "Master's student at Institute of Automation, Chinese Academy of Sciences"
   location         : "Beijing, CN"
   employer         :
   pubmed           : #
