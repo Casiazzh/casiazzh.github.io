@@ -20,7 +20,7 @@ zhangzhiheng2024@ia.ac.cn
 
 ### Wechat
 
-![7571802942341838](https://github.com/user-attachments/assets/3292c162-78e1-440c-8f49-368ef0b30210)
+![7571802942341838](https://github.com/user-attachments/assets/3292c162-78e1-440c-8f49-368ef0b30210){:height="50%" width="50%"}
 
 
 
