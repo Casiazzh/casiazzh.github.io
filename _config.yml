@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhiheng Zhang 章智恒"
+title                    : "Zhiheng Zhang"
 title_separator          : "-"
 name                     : &name "Zhang zhiheng"
 description              : &description "Welcome to my webpage!"
@@ -84,21 +84,21 @@ author:
   avatar           : "my_photo.png"
   bio              : "Master's student at Institute of Automation, Chinese Academy of Sciences"
   location         : "Beijing, CN"
-  employer         :  
+  employer         :  a
   pubmed           : #
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=2MCbMw0AAAAJ"
   # email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
+  uri              :a
+  bitbucket        :a
+  codepen          :a
+  dribbble         :a
   flickr           :
-  facebook         :
-  foursquare       :
+  facebook         :a
+  foursquare       :a
   github           : "Casiazzh"
   google_plus      :
-  keybase          :
+  keybase          :a
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
