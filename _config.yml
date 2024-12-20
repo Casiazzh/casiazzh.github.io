@@ -84,21 +84,21 @@ author:
   avatar           : "my_photo.png"
   bio              : "Master's student at Institute of Automation, Chinese Academy of Sciences"
   location         : "Beijing, CN"
-  employer         :  a
+  employer         : 
   pubmed           : #
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=2MCbMw0AAAAJ"
   # email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :a
-  bitbucket        :a
-  codepen          :a
-  dribbble         :a
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
   flickr           :
-  facebook         :a
-  foursquare       :a
+  facebook         :
+  foursquare       :
   github           : "Casiazzh"
   google_plus      :
-  keybase          :a
+  keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
