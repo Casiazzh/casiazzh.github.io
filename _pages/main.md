@@ -14,7 +14,7 @@ My current research interests include Large Language Model-based Agent, Tool Lea
 
 ## Education 
 :mortar_board: Master's Student in Pattern Recognition and Intelligent Systems, 2024-2027(expected), <span class="grey"> Institute of Automation, Chinese Academy of Sciences</span> \
-:mortar_board: Bachelor of Economics in Economics, 2022-2024, <span class="grey">Hunan Normal University</span>
+:mortar_board: Bachelor of Economics in Economics, 2022-2024, <span class="grey">Hunan Normal University</span>\
 :mortar_board: Bachelor of Engineering in Artificial Intelligence, 2020-2024, <span class="grey">Hunan Normal University</span>
 
 
