@@ -4,7 +4,7 @@ permalink: /chinese/
 ---
 
 ## 章智恒
-我目前就读于[中国科学院自动化研究所](http://ia.cas.cn/)，2024 年秋季入学，师从[赵军](https://scholar.google.com.hk/citations?hl=zh-CN&user=HljRttwAAAAJ)老师。
+我目前就读于[中国科学院自动化研究所](http://ia.cas.cn/)，2024 年秋季入学，师从[赵军](https://scholar.google.com.hk/citations?hl=zh-CN&user=6hE3q1YAAAAJ)老师。
 主要的研究方向是基于大语言模型的多智能体、工具学习和信息抽取。
 
 ## 教育背景
