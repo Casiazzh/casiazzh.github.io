@@ -8,7 +8,7 @@ redirect_from:
   - /main.html
 ---
 
-Hi there! My name is Zhiheng Zhang. I am a Master's student under the guidance of Professor [Jun Zhao](https://scholar.google.com.hk/citations?hl=zh-CN&user=HljRttwAAAAJ) at the [Institute of Automation, Chinese Academy of Sciences](http://ia.cas.cn/). 
+Hi there! My name is Zhiheng Zhang. I am a Master's student under the guidance of Professor [Jun Zhao](https://scholar.google.com.hk/citations?hl=zh-CN&user=6hE3q1YAAAAJ) at the [Institute of Automation, Chinese Academy of Sciences](http://ia.cas.cn/). 
 
 My current research interests include Large Language Model-based Agent, Tool Learning, and Information Extraction. Specifically, I am currently very interested in adaptive collaboration among multi-agent systems.
 
